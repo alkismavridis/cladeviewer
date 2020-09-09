@@ -1,0 +1,22 @@
+.clade-menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 3px solid #836c6c;
+  border-radius: 5px;
+  background: beige;
+  padding: 3px;
+}
+
+.clade-menu__item {
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 0 4px;
+}
+
+.clade-menu__info {
+  font-size: 11px;
+  margin-bottom: 8px;
+}
